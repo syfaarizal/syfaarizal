@@ -14,6 +14,15 @@
 
 ---
 
+### 🎯 My Goals
+- ✅ Build strong portfolio with clean code & thoughtful design
+- ⏳ Collaborate with other developers
+- 🌐 Be able to work with global teams (English skill in progress!)
+
+_"Consistency beats perfection."_ 💡
+
+---
+
 ### 🔧 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -21,15 +30,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-### 🎯 My Goals
-- ✅ Build strong portfolio with clean code & thoughtful design
-- ⏳ Collaborate with other developers
-- 🌐 Be able to work with global teams (English skill in progress!)
-
-_"Consistency beats perfection."_ 💡
 
 ---
 
@@ -48,7 +48,7 @@ _"Consistency beats perfection."_ 💡
 ### 📬 Let’s Connect
 
 [![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:syifairgi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/syfaarizal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syifaarizal/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/syfaarizal)
 
 ---
