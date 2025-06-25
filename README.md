@@ -24,6 +24,15 @@
 
 ---
 
+### 🎯 My Goals
+- ✅ Build strong portfolio with clean code & thoughtful design
+- ⏳ Collaborate with other developers
+- 🌐 Be able to work with global teams (English skill in progress!)
+
+_"Consistency beats perfection."_ 💡
+
+---
+
 ### 📈 GitHub Stats
 
 ![Syifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syfaarizal&show_icons=true&theme=tokyonight)
