@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Syifa Fauziyah Arizal
-
-🎓 Informatics Student & Aspiring Front-End Developer  
+ 
 💻 Passionate about building clean, responsive UI  
 🚀 Currently learning **JavaScript** and exploring **React**
 
