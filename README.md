@@ -34,7 +34,7 @@ _"Consistency beats perfection."_ 💡
 
 ### 📈 GitHub Stats
 
-![Syifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syfaarizal&show_icons=true&theme=tokyonight)
+![Syfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical)
 
 ---
 
