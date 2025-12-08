@@ -34,7 +34,7 @@ _"Consistency beats perfection."_ 💡
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical&cache_seconds=60&v=1" />
 
 ### Top Langs
 
