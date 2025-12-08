@@ -34,7 +34,11 @@ _"Consistency beats perfection."_ 💡
 
 ### 📈 GitHub Stats
 
-![Syfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical" />
+
+### Top Langs
+
+<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api/top-langs/?username=syfaarizal&layout=compact&theme=radical" />
 
 ---
 
