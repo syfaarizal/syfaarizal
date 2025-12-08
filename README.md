@@ -38,7 +38,7 @@ _"Consistency beats perfection."_ 💡
 
 ### Top Langs
 
-<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api/top-langs/?username=syfaarizal&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api/top-langs/?username=syfaarizal&layout=compact&theme=radical&cache_seconds=60&v=1" />
 
 ---
 
