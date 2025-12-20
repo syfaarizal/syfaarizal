@@ -1,24 +1,33 @@
 ## 👋 Hi, I'm Syifa Fauziyah Arizal
  
-💻 Passionate about building clean, responsive UI  
-🚀 Currently learning **JavaScript** and exploring **React**
+I build things with intention — clean UI, thoughtful structure, and long-term vision.  
+Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-### 🌱 Current Journey
+## 🌱 What I'm Doing Now
 
-- 🔨 Working on: [SICODER Portfolio](https://github.com/syfaarizal/sicoder-portfolio)
-- 📚 Learning daily: HTML, CSS, JavaScript
-- 📌 Goal: Become a front-end dev with solid UI/UX and SEO skills
+- Building **SICODER** — a personal portfolio & long-term product foundation
+- Working daily with **HTML, CSS, JavaScript**
+- Exploring **React** and modern front-end workflows
+- Practicing consistency, clarity, and craftsmanship
+
+>I believe progress comes from showing up every day and improving one small thing at a time.
+---
+
+## 🧠 How I Think
+- I value **systems over shortcuts**
+- I care about **why** something is built, not only **how**
+- I prefer stability, clarity, and depth over speed and noise
+
+> Consistency beats perfection.
 
 ---
 
-### 🎯 My Goals
-- ✅ Build strong portfolio with clean code & thoughtful design
-- ⏳ Collaborate with other developers
-- 🌐 Be able to work with global teams (English skill in progress!)
-
-_"Consistency beats perfection."_ 💡
+## 🎯 Direction & Focus
+- Front-end development with strong UI/UX sense
+- Clean, readable, maintainable code
+- Preparing a solid foundation for future work in **AI & intelligent systems**
 
 ---
 
@@ -42,13 +51,23 @@ _"Consistency beats perfection."_ 💡
 
 ---
 
-### ✨ Fun Fact
+## 📌 Featured Work
+- **SICODER** – Personal portfolio & long-term build
+- Daily JavaScript practice & UI mini-projects  
+(see pinned repositories below)
 
-> I build things pixel by pixel, with coffee, code, and curiosity ☕💡
+Each project represents a step forward, not a finished destination.
 
 ---
 
-### 📬 Let’s Connect
+## 🤝 Open To
+- Meaningful collaboration
+- Learning with other builders
+- Projects with long-term impact
+
+---
+
+### 📫 Reach me:
 
 [![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:syifairgi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syifaarizal/)
