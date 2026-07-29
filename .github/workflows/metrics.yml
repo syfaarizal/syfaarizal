@@ -1,0 +1,62 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Run every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          github_user: syfaarizal
+          theme: radical
+          github_stats: yes
+          github_stats_disable_dependencies: false
+          github_stats_disable_browser: false
+          github_stats_skip_ignored: false
+          github_stats_include_all_commits: true
+          github_stats_count_private: true
+          use_cache: false
+          base: transparent
+          output: svg
+          persist: true
+          dir: .
+
+      - name: Generate Top Languages SVG
+        uses: lowlighter/metrics@latest
+        with:
+          github_user: syfaarizal
+          theme: radical
+          languages: yes
+          languages_limit: 8
+          languages_threshold: 0%
+          exclude_banned_users: true
+          use_cache: false
+          base: transparent
+          output: svg
+          persist: true
+          dir: .
+
+      - name: Commit SVG files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-stats.svg top-languages.svg 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: update GitHub metrics SVGs [skip ci]"
+          git push

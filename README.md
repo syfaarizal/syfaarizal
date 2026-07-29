@@ -81,15 +81,15 @@ Focused on turning ideas into real, usable products, not just writing code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="github-stats.svg" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=donut" alt="Top Languages" />
+  <img src="top-languages.svg" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
