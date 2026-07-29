@@ -8,9 +8,6 @@
   <a href="https://github.com/syfaarizal">
     <img src="https://komarev.com/ghpvc/?username=syfaarizal&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/syfaarizal">
-    <img src="https://badges.pepipost.com/open-source?username=syfaarizal&label=Contributions+in+the+last+year&color=00D9FF&style=flat-square" alt="Contributions"/>
-  </a>
 </p>
 
 ---
@@ -27,8 +24,8 @@ Focused on turning ideas into real, usable products, not just writing code.
 ## 🌱 What I'm Doing Now
 
 - 🚀 Building **LIBR** — a personal portfolio & long-term product foundation
-- 🎨 Exploring **UI/UX Design** with Figma
-- 💡 Solving problems with analytical thinking
+- ⚛️ Building modern web apps with React & Next.js
+- 🤖 Exploring AI integration & automation workflows
 - 🎯 Practicing consistency, clarity, and craftsmanship
 
 ---
@@ -45,46 +42,54 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ## 🎯 Direction & Focus
 
-- UI/UX Design with strong visual sense
-- Clean, readable, maintainable documentation
-- Data management & analytical thinking
-- Preparing a solid foundation for future work in **AI & intelligent systems**
+- Front-end development with strong UI/UX sense
+- Clean, readable, maintainable code
+- AI-powered applications & intelligent automation
 
 ---
 
-## 🎨 Skills & Tools
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,excel,word&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark&nolinks=true" />
+  <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" height="40" style="vertical-align: middle; margin-left: 4px;"/>
 </p>
 
-| Skill | Proficiency |
-|-------|-------------|
-| 🎨 Figma | UI/UX Design |
-| 📊 Microsoft Excel | Data Management |
-| 📝 Microsoft Word | Documentation |
-| 🖼️ Canva | Graphic Design |
-| 💬 Communication | Verbal & Written |
-| 🧩 Problem Solving | Analysis & Troubleshooting |
+### ⚙️ Backend & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,vercel&theme=dark&nolinks=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" style="vertical-align: middle; margin-left: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" height="40" style="vertical-align: middle; margin-left: 4px;"/>
+</p>
+
+### 🤖 AI & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-ffffff?style=flat&logo=openai&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/AI%20Workflow-ffffff?style=flat&logo=robot&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/Automation-ffffff?style=flat&logo=zapier&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/OpenAI-ffffff?style=flat&logo=openai&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/Claude-ffffff?style=flat&logo=anthropic&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/Gemini-ffffff?style=flat&logo=google&logoColor=black" height="40" style="vertical-align: middle;"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show=total" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=donut" alt="Top Languages" />
 </p>
-
----
 
 ## 🏆 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -92,7 +97,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 ## 📌 Featured Work
 
 - **LIBR** – Personal portfolio & long-term build
-- UI/UX Design projects
+- AI-powered projects & automation workflows
 - (see pinned repositories below)
 
 *Each project represents a step forward, not a finished destination.*
@@ -103,7 +108,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 - Meaningful collaboration
 - Learning with other builders
-- Projects with long-term impact
+- AI-powered projects & automation
 
 ---
 
