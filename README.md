@@ -1,21 +1,40 @@
-## 👋 Hi, I'm Syifa Fauziyah Arizal
- 
+# <samp>Hi there, I'm Syifa Arizal 👋</samp>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=500&lines=I+build+things+with+intention+%E2%80%94+clean+UI%2C+thoughtful+structure." alt="Typing animation">
+</p>
+
+<p align="center">
+  <a href="https://github.com/syfaarizal">
+    <img src="https://komarev.com/ghpvc/?username=syfaarizal&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/syfaarizal">
+    <img src="https://badges.pepipost.com/open-source?username=syfaarizal&label=Contributions+in+the+last+year&color=00D9FF&style=flat-square" alt="Contributions"/>
+  </a>
+</p>
+
+---
+
+## 📖 About Me
+
 I build things with intention — clean UI, thoughtful structure, and long-term vision.  
 Focused on turning ideas into real, usable products, not just writing code.
+
+> *"I believe progress comes from showing up every day and improving one small thing at a time."*
 
 ---
 
 ## 🌱 What I'm Doing Now
 
-- Building **SICODER** — a personal portfolio & long-term product foundation
-- Working daily with **HTML, CSS, JavaScript**
-- Exploring **React** and modern front-end workflows
-- Practicing consistency, clarity, and craftsmanship
+- 🚀 Building **LIBR** — a personal portfolio & long-term product foundation
+- 🎨 Exploring **UI/UX Design** with Figma
+- 💡 Solving problems with analytical thinking
+- 🎯 Practicing consistency, clarity, and craftsmanship
 
->I believe progress comes from showing up every day and improving one small thing at a time.
 ---
 
 ## 🧠 How I Think
+
 - I value **systems over shortcuts**
 - I care about **why** something is built, not only **how**
 - I prefer stability, clarity, and depth over speed and noise
@@ -25,55 +44,88 @@ Focused on turning ideas into real, usable products, not just writing code.
 ---
 
 ## 🎯 Direction & Focus
-- Front-end development with strong UI/UX sense
-- Clean, readable, maintainable code
+
+- UI/UX Design with strong visual sense
+- Clean, readable, maintainable documentation
+- Data management & analytical thinking
 - Preparing a solid foundation for future work in **AI & intelligent systems**
 
 ---
 
-### 🔧 Tech Stack
+## 🎨 Skills & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,excel,word&theme=dark" />
+</p>
+
+| Skill | Proficiency |
+|-------|-------------|
+| 🎨 Figma | UI/UX Design |
+| 📊 Microsoft Excel | Data Management |
+| 📝 Microsoft Word | Documentation |
+| 🖼️ Canva | Graphic Design |
+| 💬 Communication | Verbal & Written |
+| 🧩 Problem Solving | Analysis & Troubleshooting |
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api?username=syfaarizal&show_icons=true&theme=radical&cache_seconds=60&v=1" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show=total" alt="GitHub Stats" />
+</p>
 
-### Top Langs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=donut" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats-peach-alpha-52.vercel.app/api/top-langs/?username=syfaarizal&layout=compact&theme=radical&cache_seconds=60&v=1" />
+---
+
+## 🏆 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📌 Featured Work
-- **SICODER** – Personal portfolio & long-term build
-- Daily JavaScript practice & UI mini-projects  
-(see pinned repositories below)
 
-Each project represents a step forward, not a finished destination.
+- **LIBR** – Personal portfolio & long-term build
+- UI/UX Design projects
+- (see pinned repositories below)
+
+*Each project represents a step forward, not a finished destination.*
 
 ---
 
 ## 🤝 Open To
+
 - Meaningful collaboration
 - Learning with other builders
 - Projects with long-term impact
 
 ---
 
-### 📫 Reach me:
+## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:syifairgi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syifaarizal/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/syfaarizal)
+<p align="left">
+  <a href="mailto:syifairgi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syifaarizal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/syfaarizal">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/syfaarizal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-_"Let's grow together—one project, one commit, one breakthrough at a time."_ 🌱
+<p align="center">
+  <i>"Let's grow together—one project, one commit, one breakthrough at a time." 🌱</i>
+</p>
