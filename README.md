@@ -81,7 +81,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-syfaarizal.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ### 🏆 GitHub Achievements
@@ -99,7 +99,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 ### 🗣️ Top Languages
 
 <p align="center">
-  <img src="https://github-stats-syfaarizal.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
