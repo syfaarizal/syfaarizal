@@ -80,12 +80,6 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="github-stats.svg" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="top-languages.svg" alt="Top Languages" />
-</p>
-
 ### 🔥 GitHub Streak
 
 <p align="center">
