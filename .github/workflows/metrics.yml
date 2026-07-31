@@ -40,6 +40,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull --rebase || true
           git add github-stats.svg 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: update GitHub stats SVG [skip ci]"
           git push
@@ -70,6 +71,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull --rebase || true
           git add top-languages.svg 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: update top languages SVG [skip ci]"
           git push
