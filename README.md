@@ -23,10 +23,10 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ## 🌱 What I'm Doing Now
 
-- 🚀 Building **LIBR** — a personal portfolio & long-term product foundation
-- ⚛️ Building modern web apps with React & Next.js
-- 🤖 Exploring AI integration & automation workflows
-- 🎯 Practicing consistency, clarity, and craftsmanship
+- Building **LIBR** — a personal portfolio & long-term product foundation
+- Building modern web apps with React & Next.js
+- Exploring AI integration & automation workflows
+- Practicing consistency, clarity, and craftsmanship
 
 ---
 
@@ -48,9 +48,9 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark&nolinks=true" />
