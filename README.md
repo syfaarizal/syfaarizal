@@ -78,29 +78,35 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syfaarizal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  A living snapshot of what I build, learn, and contribute.
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syfaarizal&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
-</p>
-
-### 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-### 🗣️ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syfaarizal&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./github-stats.svg" alt="GitHub Stats" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏆 Achievements</h3>
+      <img src="./github-achievements.svg" alt="GitHub Achievements" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📈 Streak</h3>
+      <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=true&background=0D1117&ring=563EFE&fire=563EFE&currStreakLabel=563EFE" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🗣️ Top Languages</h3>
+      <img src="./top-languages.svg" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

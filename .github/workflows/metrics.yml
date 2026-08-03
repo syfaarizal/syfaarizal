@@ -11,18 +11,22 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
+
 jobs:
-  github-stats:
+  generate-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub Stats SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: syfaarizal
@@ -33,29 +37,13 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_colors: "#563efe"
           plugin_lines: yes
+          plugin_lines_delay: 30
           config_output: svg
+          output_action: none
           filename: github-stats.svg
 
-      - name: Commit Stats SVG
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git pull --rebase || true
-          git add github-stats.svg 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: update GitHub stats SVG [skip ci]"
-          git push
-
-  top-languages:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate Top Languages SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: syfaarizal
@@ -65,13 +53,26 @@ jobs:
           plugin_languages_colors: "#563efe"
           plugin_languages_sections: dominant
           config_output: svg
+          output_action: none
           filename: top-languages.svg
 
-      - name: Commit Languages SVG
+      - name: Generate Achievements SVG
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: syfaarizal
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          config_output: svg
+          output_action: none
+          filename: github-achievements.svg
+
+      - name: Commit generated SVGs
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git pull --rebase || true
-          git add top-languages.svg 2>/dev/null || true
+          git add github-stats.svg top-languages.svg github-achievements.svg
           git diff --staged --quiet || git commit -m "chore: update top languages SVG [skip ci]"
           git push
