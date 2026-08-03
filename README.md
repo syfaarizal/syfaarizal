@@ -93,11 +93,11 @@ Focused on turning ideas into real, usable products, not just writing code.
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🏆 Achievements</h3>
-      <img src="./github-achievements.svg" alt="GitHub Achievements" width="100%"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=syfaarizal&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Achievements" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>📈 Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=true&background=0D1117&ring=563EFE&fire=563EFE&currStreakLabel=563EFE" alt="GitHub Streak" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=syfaarizal&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
   <tr>
