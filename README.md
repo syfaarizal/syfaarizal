@@ -78,7 +78,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   A living snapshot of what I build, learn, and contribute.
