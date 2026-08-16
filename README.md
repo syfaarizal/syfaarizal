@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About Me
+## About Me
 
 I build things with intention — clean UI, thoughtful structure, and long-term vision.  
 Focused on turning ideas into real, usable products, not just writing code.
@@ -21,7 +21,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 🌱 What I'm Doing Now
+## What I'm Doing Now
 
 - Building **LIBR** — a personal portfolio & long-term product foundation
 - Building modern web apps with React & Next.js
@@ -30,7 +30,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 🧠 How I Think
+## How I Think
 
 - I value **systems over shortcuts**
 - I care about **why** something is built, not only **how**
@@ -40,7 +40,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 🎯 Direction & Focus
+## Direction & Focus
 
 - Front-end development with strong UI/UX sense
 - Clean, readable, maintainable code
@@ -57,7 +57,7 @@ Focused on turning ideas into real, usable products, not just writing code.
   <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" height="40" style="vertical-align: middle; margin-left: 4px;"/>
 </p>
 
-### ⚙️ Backend & Deployment
+### Backend & Deployment
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,vercel&theme=dark&nolinks=true" />
@@ -65,7 +65,7 @@ Focused on turning ideas into real, usable products, not just writing code.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" height="40" style="vertical-align: middle; margin-left: 4px;"/>
 </p>
 
-### 🤖 AI & Automation
+### AI & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-ffffff?style=flat&logo=openai&logoColor=black" height="40" style="vertical-align: middle; margin-right: 4px;"/>
@@ -78,7 +78,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   A living snapshot of what I build, learn, and contribute.
@@ -95,7 +95,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
 - **LIBR** – Personal portfolio & long-term build
 - AI-powered projects & automation workflows
@@ -105,7 +105,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 🤝 Open To
+## Open To
 
 - Meaningful collaboration
 - Learning with other builders
@@ -113,7 +113,7 @@ Focused on turning ideas into real, usable products, not just writing code.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:syifairgi@gmail.com">
