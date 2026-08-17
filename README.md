@@ -1,4 +1,4 @@
-# <samp>Hi there, I'm Syifa Arizal</samp>
+# <samp>Hi there, I'm Syifa Arizal 👋🏻</samp>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=500&lines=I+build+things+with+intention+%E2%80%94+clean+UI%2C+thoughtful+structure." alt="Typing animation">
