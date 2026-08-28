@@ -133,5 +133,5 @@ Focused on turning ideas into real, usable products, not just writing code.
 ---
 
 <p align="center">
-  <i>"Let's grow together—one project, one commit, one breakthrough at a time." 🌱</i>
+  <i>"Let's grow together—one project, one commit, one breakthrough at a time."</i>
 </p>
